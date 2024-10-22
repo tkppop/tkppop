@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tkppop
 - 👀 I’m interested in build things that remove user painpoints
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning NextJS
 - 💞️ I’m looking to collaborate on building B2B SaaS apps
 - 📫 How to reach me @tkp_illidin
 
